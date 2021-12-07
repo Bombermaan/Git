@@ -1,0 +1,4 @@
+- Perunat
+- Naudan sisäfile
+- Mausteet
+- Viini
