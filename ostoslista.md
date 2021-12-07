@@ -2,3 +2,4 @@
 - Naudan sisäfile
 - Mausteet
 - Viini
+- Vihannekset
